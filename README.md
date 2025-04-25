@@ -1,9 +1,14 @@
 
- <h1 align="center">Oi, eu sou [Sam Osako] 👋</h1>
+<h1 align="center">Oi, eu sou Sam Osako 👋</h1>
 
 <p align="center">
   Estudante de Engenharia de Software | Focado em Front-End | Apaixonado por tecnologia e inovação.
 </p>
+<body>
+    <div class="perfil-container">
+        <div class="foto-container">
+            <img src="" alt="Foto do Perfil" class="foto-perfil">
+        </div>
 
 ---
 
@@ -14,6 +19,8 @@
 - 👨‍💻 Aprendendo **HTML, CSS, JavaScript e React**
 - 🎯 Objetivo: Me tornar um **Desenvolvedor Front-End** de alto nível
 - 💬 Sempre disposto a colaborar e aprender com a comunidade
+
+---
 
 ### 🛠️ Tecnologias e Ferramentas
 
