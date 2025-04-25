@@ -4,11 +4,6 @@
 <p align="center">
   Estudante de Engenharia de Software | Focado em Front-End | Apaixonado por tecnologia e inovação.
 </p>
-<body>
-    <div class="perfil-container">
-        <div class="foto-container">
-            <img src="" alt="Foto do Perfil" class="foto-perfil">
-        </div>
 
 ---
 
@@ -41,11 +36,10 @@
 
 ### 🌐 Conecte-se comigo
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](www.linkedin.com/in/samosako)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samosako)
 [![Gmail](https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white)](mailto:osakosam58@gmail.com)
 <div>
 <a href="https://instagram.com/sammg.o" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 
 ---
 
-🧠 *"Sempre evoluindo, um commit de cada vez..."*
