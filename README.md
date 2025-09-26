@@ -2,24 +2,24 @@
 <h1 align="center">Oi, eu sou Sam Osako 👋</h1>
 
 <p align="center">
-  Estudante de Engenharia de Software | Focado em Front-End | Apaixonado por tecnologia e inovação.
+  Estudante de Engenharia de Software | Focado em Analista de dados | Apaixonado por tecnologia e inovação.
 </p>
 
 ---
 
 ### 🚀 Sobre mim
 
-- 🎓 Estudando **Engenharia de Software**
-- 💼 Atuando como **Gerente de Manutenção e Instalação**
-- 👨‍💻 Aprendendo **HTML, CSS, JavaScript e React**
-- 🎯 Objetivo: Me tornar um **Desenvolvedor Front-End** de alto nível
-- 💬 Sempre disposto a colaborar e aprender com a comunidade
-
+🎯 Focado em me tornar um Analista de Dados | 📊
+📚 Estudando Python, SQL e ferramentas de análise de dados
+🚀 Em busca de aprendizado constante e novos desafios
+📈 Explorando dados, criando insights e construindo projetos práticos
+📍 Brasil
 ---
 
 ### 🛠️ Tecnologias e Ferramentas
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,github,git,vscode" />
+<img src="https://skillicons.dev/icons?i=python,jupyter,git,github,vscode,powerbi,mysql" />
+
 
 ---
 
